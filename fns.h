@@ -1,0 +1,11 @@
+int anim(char* arr,int gap);
+int greet();
+int decrypt(char* str,char* decrypt);
+int encrypt(char* str,char* encrypt);
+int usercheck(char* uname);
+int pwdcheck(char* uname,char* pwd);
+int udetails(int logged);
+int nrecords();
+int allrecords();
+int allpwd(int logged);
+int apwd(int logged);
